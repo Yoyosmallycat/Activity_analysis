@@ -68,5 +68,5 @@ total_mean <- total_b %>% group_by(activity, subject)%>%
   summarise_all(funs(mean)) 
 
 # export summary data
-write.csv(total_mean, file = "./tidydata.csv", row.names = FALSE, col.names = TRUE) 
+write.table(total_mean, file = "./tidydata.txt", row.names = FALSE, col.names = TRUE) 
 
