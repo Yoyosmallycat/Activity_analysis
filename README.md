@@ -19,9 +19,11 @@ This repository contains the following files:
 4. tidydata.csv, which contains the generated data set. 
 
 Code explaination
+
 The code naned the columns in the new dataset and combined training data and test data. Then extracted partial variables to create a new dataset with the averages of each variable for grouped data by subject and activity.
 
 New dataset
+
 The new generated dataset contained variables are calculated based on mean and standard deviation, each row is an average of each variable for each activity and each subject. 
 
 Th Run_analysis.R contains all the code to perform the analyses described in the 5 steps.
