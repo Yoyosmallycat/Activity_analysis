@@ -16,7 +16,7 @@ This repository contains the following files:
 1. README.md:  provides an overview of the data set and how it was created. 
 2. CodeBook.md: Shows information about the data, variables and transformations used to generate the data). 
 3. run_analysis.R: the R script that was used to create the data set.
-4. tidydata.csv, which contains the generated data set. 
+4. tidydata.txt, which contains the generated data set. 
 
 Code explaination
 

@@ -1,4 +1,4 @@
-The final output "tidydata.csv" contains 180 rows and 68 columns. Each row is the average of each variable for each activity and each subject.
+The final output "tidydata.txt" contains 180 rows and 68 columns. Each row is the average of each variable for each activity and each subject.
 
 Description
 Only the measurements on the mean and standard deviation for each measurement are kept. The data were averaged based on subject and activity group.
